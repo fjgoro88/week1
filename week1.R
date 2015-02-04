@@ -12,7 +12,7 @@
 # R2. To find patterns in data
 # R3. To suggest modeling strategies
 # R4. To "debug" analyses
-# 5. To communicate results 
+# R5. To communicate results 
 getwd()
 setwd("~/Desktop/Online Coursera/Coursera-Exploratory-Data-Analysis/")
 list.files()
